@@ -5,4 +5,6 @@ products (id, name, price, store_id)
 The relationship is One-to-Many.
 
 Write nested query which get products of store which name is 'Metro'
-ﬁ„ »ﬂ «»… ﬂÊœ ·⁄—÷ „‰ Ã«  «·„ Ã— «·–Ì Ìı”„¯ÛÏ "„ —Ê"
+√û√£ √à√ü√ä√á√à√â √ü√¶√è √°√ö√ë√ñ √£√§√ä√å√á√ä √á√°√£√ä√å√ë √á√°√ê√≠ √≠√µ√ì√£√∏√≥√¨ "√£√ä√ë√¶"
+
+

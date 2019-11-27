@@ -4,7 +4,8 @@ book (id, name, publication_year, author_id)
 
 The relationship is One-to-Many
 Author has one or many book
-Book is for only one author
+Book is for only one to Author
+
 
 Write a nested query which get author of book which name is 'Tech Ethics'
-ﬁ„ »ﬂ «»… ﬂÊœ ·⁄—÷ „ƒ·› «·ﬂ «» «·–Ì Ìı”„¯ÛÏ "Tech Ethics"
+√û√£ √à√ü√ä√á√à√â √ü√¶√è √°√ö√ë√ñ √£√Ñ√°√ù √á√°√ü√ä√á√à √á√°√ê√≠ √≠√µ√ì√£√∏√≥√¨ "Tech Ethics"
